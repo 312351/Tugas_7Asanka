@@ -311,7 +311,7 @@ return(
                 </div>
                 <hr className="w-full h-[1px] bg-black"/>
             </div>
-            <div className="max-w-[1580px] min-h-[10vh] mx-auto flex flex-col">
+            <div className="max-w-[1580px] min-h-[25vh] mx-auto flex flex-col">
                 <div className="w-full h-[10vh] grid grid-cols-2 md:grid-cols-[1fr,2fr,1fr] items-center">
                     <a href="" className="w-full  order-2 md:order-1">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 775.8 207.1" width="100" height="40">

@@ -61,7 +61,7 @@ const Maps = () =>{
                         </div>
                     </div>
                 </div>
-                <hr className="w-full h-1 bg-black"/>
+                <hr className="w-full h-[3px] bg-black"/>
         </section>
     )
 }

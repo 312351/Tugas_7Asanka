@@ -7,6 +7,7 @@ import Experience from "./feature/Dashboard/Experience";
 import Maps from "./feature/Dashboard/AmankilaLocation";
 import AmanResouce from "./feature/Dashboard/AmanResouce";
 import Footer from "./Shared/foother/Footeher";
+import ReserveButtonFixed from "./Shared/foother/Fixed";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <Maps/>
       <AmanResouce/>
       <Footer/>
+      <ReserveButtonFixed/>
    </div>
   )
 }
