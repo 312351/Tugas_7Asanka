@@ -10,7 +10,7 @@ import ReserveButtonFixed from "./Shared/foother/Fixed";
 
 export default function Home() {
   return (
-   <div className="w-full min-h-screen">
+   <div className="w-full min-h-screen text-black">
       <Header1/>
       <DashboardImg/>
       <Manggis/>
