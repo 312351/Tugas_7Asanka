@@ -9,7 +9,7 @@ const Experience = () => {
                     <span className=" px-5 flex flex-col gap-y-5 py-5">
                             <p className="text-[15px] font-anaheim opacity-50">Accomodation</p>
                             <p className="text-[25px] font-georgia ">Suites</p>
-                            <p className="text-[15px] font-georgia ">Experience Bali's cultural heartland from Amankila's private stretch of coastline on the Lombok Strait, where several exclusive offers invite guests to enjoy an unforgettable Aman experience.</p>
+                            <p className="text-[15px] font-georgia ">Experience Bali&apos;ss cultural heartland from Amankila&apos;s private stretch of coastline on the Lombok Strait, where several exclusive offers invite guests to enjoy an unforgettable Aman experience.</p>
                         <div className="w-full flex flex-row gap-x-5">
                           <div className="min-w-[10px] flex flex-col gap-x-5 border-b-1 border-black opacity-75">
                             <p className="font-anaheim text-[15px] whitespace-nowrap">Discovere More I</p>
@@ -40,7 +40,7 @@ const Experience = () => {
                     <span className=" px-5 flex flex-col gap-y-5 py-5">
                             <p className="text-[15px] font-anaheim opacity-50">Dining</p>
                             <p className="text-[25px] font-georgia">Sustainable ingredients</p>
-                            <p className="text-[15px] font-georgia">Celebrating the warmth of traditional family dining with a seasonal focus, Amankila’s menus reflect the rich bounty of Bali’s volcanic soil, the wealth of its waters and the creativity of the resort’s expert chefs.</p>
+                            <p className="text-[15px] font-georgia">Celebrating the warmth of traditional family dining with a seasonal focus, Amankila&apos;s menus reflect the rich bounty of Bali&apos;ss volcanic soil, the wealth of its waters and the creativity of the resort&apos;s expert chefs.</p>
                         <div className="w-full flex flex-row gap-x-5">
                           <div className="min-w-[10px] flex flex-col gap-x-5 border-b-1 border-black opacity-75">
                             <p className="font-anaheim text-[15px] whitespace-nowrap">Discovere More</p>
@@ -66,7 +66,7 @@ const Experience = () => {
       <p className="text-[15px] font-anaheim opacity-50">Experiences</p>
       <p className="text-[25px] font-georgia">Adventures on water</p>
       <p className="text-[15px] font-georgia">
-       Amankila’s two traditional outriggers are available for guests to explore the wonders of the Lombok Strait, with some of the best snorkelling and diving sites in East Bali, including Manta Point and Crystal Bay.
+       Amankila&apos;s two traditional outriggers are available for guests to explore the wonders of the Lombok Strait, with some of the best snorkelling and diving sites in East Bali, including Manta Point and Crystal Bay.
       </p>
       <div className="w-full flex flex-row gap-x-5">
                           <div className="min-w-[10px] flex flex-col gap-x-5 border-b-1 border-black opacity-75">
@@ -89,7 +89,7 @@ const Experience = () => {
       <p className="text-[15px] font-anaheim opacity-50">Celebrations</p>
       <p className="text-[25px] font-georgia">Host the perfect event</p>
       <p className="text-[15px] font-georgia">
-        Set in East Bali, where water palaces speak of the region’s royal past and temples honour the island’s gods, Amankila’s dramatic setting makes it one of the most captivating destinations for events in Asia.
+        Set in East Bali, where water palaces speak of the region&apos;ss royal past and temples honour the island&apos;ss gods, Amankila&apos;ss dramatic setting makes it one of the most captivating destinations for events in Asia.
       </p>
       <div className="w-full flex flex-row gap-x-5">
                           <div className="min-w-[10px] flex flex-col gap-x-5 border-b-1 border-black opacity-75">

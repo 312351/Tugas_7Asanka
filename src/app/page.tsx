@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Header1 from "./Shared/Header/Header1";
 import DashboardImg from "./feature/Dashboard/DashboardImg";
 import Manggis from "./feature/Dashboard/Manggis";
